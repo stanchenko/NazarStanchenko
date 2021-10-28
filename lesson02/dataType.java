@@ -38,6 +38,8 @@ public class dataType
         “The height building ‘height’ m and ‘count’ floors”.
         ‘height’ і ‘count’ - це змінні які можна  вводити через Scanner, або налаштувати в конфігураціях, як на скріні.
          */
+
+
         System.out.println("please enter the height and number of floors in the house you want to build" );
 
         System.out.println("Please enter floors: = ");
@@ -50,6 +52,11 @@ public class dataType
 
         System.out.println("Your house will have " + floors + " floors and height of about " + height + " meters");
 
+        System.out.println("but if you want to build in the city of dreams");
+
+        int g = Integer.parseInt(args[0]);
+        int d = Integer.parseInt(args[1]);
+        System.out.println("in your house there can only be " + g + " floor and " + d + " meters");
 
 
 
@@ -214,9 +221,11 @@ public class dataType
 
          */ //работа с библиотекой Math
 
-        /*
+     /*
         int c = Integer.parseInt(args[0]); //парсим значение которое прийдет в тип данных integer
+        int d = Integer.parseInt(args[1]);
         System.out.println(c);
+        System.out.println(d);
 
          */
 
