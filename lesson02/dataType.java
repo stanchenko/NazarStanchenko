@@ -1,5 +1,8 @@
 package lesson2;
 
+import java.util.Locale;
+import java.util.Scanner;
+
 public class dataType
 {
      /*
@@ -29,6 +32,35 @@ public class dataType
     абзаца  */
 
     public static void main(String[] args) {
+
+         /*
+        Написати програму, яка виведе в консоль текст:
+        “The height building ‘height’ m and ‘count’ floors”.
+        ‘height’ і ‘count’ - це змінні які можна  вводити через Scanner, або налаштувати в конфігураціях, як на скріні.
+         */
+
+
+        System.out.println("please enter the height and number of floors in the house you want to build" );
+
+        System.out.println("Please enter floors: = ");
+        Scanner scan2 = new Scanner(System.in);
+        int floors = scan2.nextInt();
+
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Please enter height: = ");
+        int height = scan.nextInt();
+
+        System.out.println("Your house will have " + floors + " floors and height of about " + height + " meters");
+
+        System.out.println("but if you want to build in the city of dreams");
+
+        int g = Integer.parseInt(args[0]);
+        int d = Integer.parseInt(args[1]);
+        System.out.println("in your house there can only be " + g + " floor and " + d + " meters");
+
+
+
+
         /*
         System.out.println("Planeta");
         System.out.println("Mars");
@@ -101,6 +133,7 @@ public class dataType
         // F8 до дебаг поинта
         // F9
         // a2.concat()
+
         /*
         String name = "Dima";
         String fullName = "Dmytro Kovalchuk";
@@ -114,6 +147,7 @@ public class dataType
         if(password.length() < 8 )
             return false;
         */ // пример использования валидации на примере пароля
+
         /*
         String name = "";
         String fullName = "Dmytro Kovalchuk";
@@ -126,20 +160,76 @@ public class dataType
 
         /*
         String name = "Dmitro";
+        String name2 = "Dmitriy";
         String nameMani = "Dmitro Dmitro Dmitro";
         String fullName = "Dmytro Kovalchuk ";
         String trimName = fullName.trim();
 
-        boolean replaceInName = fullName.contains(name);
+        boolean containsInName = fullName.contains(name);
         String newName = name.replace("ro","riy");
         String newNameMani = nameMani.replace("ro","riy");
+        String nameOneSubstring = name.substring(1);
+        String nameSecondSubstring = name.substring(1,3);
+        boolean startWithOne = name.startsWith("D");
+        boolean endtWithOne = name2.endsWith("ro");
+        String lowerCaseName = name.toLowerCase();
+        String upperCaseName = name.toUpperCase();
+        int ab = 2;
+        String intAB = String.valueOf(ab);
+
+        System.out.println(name);
+        System.out.println(containsInName);
         System.out.println(newName);
-        System.out.println(newNameMani);
-        System.out.println(trimName);
-        */ // изспользование реплейса символов в стринге и трим пробела
+        System.out.println("Change name Dmitro on Dmitriy: = " + newNameMani);
+        System.out.println("Trime spase in the end line: = " + trimName);
+        System.out.println("Substring variant one: = " + nameOneSubstring);
+        System.out.println("Substring variant one: = " + nameSecondSubstring);
+        System.out.println("Substring startWith: = " + startWithOne);
+        System.out.println("Substring endWith: = " + endtWithOne);
+        System.out.println("Substring lowerCase: = " + lowerCaseName);
+        System.out.println("Substring upperCase: = " + upperCaseName);
+        System.out.println("Int to string, now 2 is not number, it is string: = " + intAB);
+        */ // изспользование реплейса и сабстринга символов в стринге и трим пробела
 
+        /*
+       System.out.println("Input int: = " );
+        Scanner scan = new Scanner(System.in);
+        int number = scan.nextInt();
+        System.out.println("You input " + number);
+         */ // введение числа в консоли и вывод введенного числа
+        /*
+        System.out.println("Input string: = " );
+        Scanner scan = new Scanner(System.in);
+        String line = scan.nextLine();
+          Double line1 = scan.nextDouble(); // тим переменной должен соответствовать ожидаемым входным данным
+          Boolean line2 = scan.nextBoolean();
+          Byte line3 = scan.nextByte();
+          Float line4 = scan.nextFloat();
+        System.out.println("You input this string line: = " + line);
+        */
 
+        /*
+        int result = Math.abs(-123);
+        int result2 = Math.max(33,7);
+        int result3 = Math.min(1,9);
+        System.out.println(result);
+        System.out.println(result2);
+        System.out.println(result3);
 
+        double a = Math.round(15);
+        System.out.println(a);
+
+         */ //работа с библиотекой Math
+
+     /*
+        int c = Integer.parseInt(args[0]); //парсим значение которое прийдет в тип данных integer
+        int d = Integer.parseInt(args[1]);
+        System.out.println(c);
+        System.out.println(d);
+
+         */
+
+        //psvm - входная точка в программу, отсюда идет ее начало
 
     }
 }
