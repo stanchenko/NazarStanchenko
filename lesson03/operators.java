@@ -20,6 +20,29 @@ public class operators
  ------------------------------------------------------------------
  */  //Задача 1
 
+        int[] array1 = {15, 8, 24, 41, 9, 84};
+        int min = 0;
+        int max = 5;
+        int diff = max - min;
+
+        Random random = new Random();
+        int i = random.nextInt(diff + 1) + min;
+        System.out.println("Random value = " + i);
+        System.out.println("Value from massiv = " + array1[i]);
+        int z =   i % 2;
+        System.out.println("Value after % 2 = " + z);
+        System.out.println(z);
+        if ( z == 0) {
+
+            System.out.println("I am lucky");
+        } else {
+
+            System.out.println("Run again");
+        }
+
+
+
+
         //--------------------------------------------------------------------------------------------------
 
         /*
@@ -335,22 +358,7 @@ public class operators
         for(int i = 0; i < array3.length; i++)
             System.out.println(array3[i]); // варифнт вывода 3
         // ----------------------------------------------------------
-            */
-        int [] array1 = {15, 8, 24, 41, 9, 84};
-        System.out.println(Arrays.toString(array1));
-        Random random = new Random();
-        System.out.println(random);
-        //  int index = random.nextInt(array1[]);
-        //    System.out.println(index);
 
-      /*  int a = Math.decrementExact();
-
-        System.out.println (a);
-
-        int[] nums = { 1, 2, 3, 4, 5, 6 };
-        for (int i = 0; i < nums.length; i++) {
-            System.out.println(nums[i]);
-        }
 */
     }
 }
