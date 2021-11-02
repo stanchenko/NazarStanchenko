@@ -29,7 +29,7 @@ public class operators
         int i = random.nextInt(diff + 1) + min;
         System.out.println("Random value = " + i);
         System.out.println("Value from massiv = " + array1[i]);
-        int z =   i % 2;
+        int z =   array1[i] % 2;
         System.out.println("Value after % 2 = " + z);
         System.out.println(z);
         if ( z == 0) {
