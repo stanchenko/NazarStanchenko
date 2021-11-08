@@ -1,7 +1,8 @@
-package hwLesson04.vehicles;
+package lesson04.hwLesson04.vehicles;
 
-import hwLesson04.details.Engine;
-import hwLesson04.professions.Driver;
+
+import lesson04.hwLesson04.details.Engine;
+import lesson04.hwLesson04.professions.Driver;
 
 public class SportCar extends Car
 {

@@ -1,4 +1,4 @@
-package hwLesson04.details;
+package lesson04.hwLesson04.details;
 
 public class Engine {
     private int power;

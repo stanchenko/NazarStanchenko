@@ -1,4 +1,4 @@
-package hwLesson04.professions;
+package lesson04.hwLesson04.professions;
 
 public class Person
 {

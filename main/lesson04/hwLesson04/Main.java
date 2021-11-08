@@ -1,9 +1,10 @@
-package hwLesson04;
+package lesson04.hwLesson04;
 
-import hwLesson04.details.Engine;
-import hwLesson04.professions.Driver;
-import hwLesson04.vehicles.SportCar;
-import hwLesson04.vehicles.Truck;
+
+import lesson04.hwLesson04.details.Engine;
+import lesson04.hwLesson04.professions.Driver;
+import lesson04.hwLesson04.vehicles.SportCar;
+import lesson04.hwLesson04.vehicles.Truck;
 
 public class Main {
     public static void main(String[] args) {
