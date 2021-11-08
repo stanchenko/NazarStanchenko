@@ -3,7 +3,12 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+<<<<<<< HEAD
       <sourceFolder url="file://$MODULE_DIR$/lesson04" isTestSource="false" />
+=======
+      <sourceFolder url="file://$MODULE_DIR$/lesson02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson03" isTestSource="false" />
+>>>>>>> 1d32cfa03196211d29a4e514ab1cfad36616dc24
     </content>
     <orderEntry type="jdk" jdkName="corretto-1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />

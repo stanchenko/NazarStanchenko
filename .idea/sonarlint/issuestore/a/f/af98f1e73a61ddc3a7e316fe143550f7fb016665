@@ -1,0 +1,40 @@
+
+L
+java:S1854k"6Remove this useless assignment to local variable "a2".(Ö×¦¬
+Q
+java:S1854j"6Remove this useless assignment to local variable "a1".(Ñ³¬©ûÿÿÿÿ
+Q	java:S125	"<This block of commented-out lines of code should be removed.(ßóÆ
+V	java:S125"<This block of commented-out lines of code should be removed.(àºô×úÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Ó…ýÌþÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(¿–úýÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(åžµŸûÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(¾éæ†øÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ª“Œ¨
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(Ïèôÿÿÿÿÿ
+V	java:S125A"<This block of commented-out lines of code should be removed.(àºô×úÿÿÿÿ
+Q	java:S125H"<This block of commented-out lines of code should be removed.(ßóÆ
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(ßóÆ
+Q	java:S125Y"<This block of commented-out lines of code should be removed.(ïŸäŸ
+V	java:S125c"<This block of commented-out lines of code should be removed.(Ñ³¬©ûÿÿÿÿ
+B
+java:S1481j"'Remove this unused "a1" local variable.(Ñ³¬©ûÿÿÿÿ
+=
+java:S1481k"'Remove this unused "a2" local variable.(Ö×¦¬
+P	java:S125n"<This block of commented-out lines of code should be removed.(ŽÕÛK
+V	java:S125w"<This block of commented-out lines of code should be removed.(¥ËÈÒùÿÿÿÿ
+Q	java:S125{"<This block of commented-out lines of code should be removed.(àÍ ³
+V	java:S125"<This block of commented-out lines of code should be removed.(¹†¼þýÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(½³“Øøÿÿÿÿ
+R	java:S125’"<This block of commented-out lines of code should be removed.(¿Ìàø
+R	java:S125˜"<This block of commented-out lines of code should be removed.(¹·þ¸
+R	java:S125¢"<This block of commented-out lines of code should be removed.(»Ì‚
+R	java:S125Ã"<This block of commented-out lines of code should be removed.(¬Å”Ÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(ˆðæšùÿÿÿÿ
+Q	java:S125Ô"<This block of commented-out lines of code should be removed.(ˆîú"
+W	java:S125â"<This block of commented-out lines of code should be removed.(û°Üœûÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²ˆ‡úÿÿÿÿ
+—
+java:S1598"€This file "dataType.java" should be located in "lesson2" directory, not in "/Users/nazar/IdeaProjects/NazarStanchenko/lesson02".(šÜ´ˆ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šÜ´ˆ
