@@ -1,6 +1,6 @@
 package lesson05.listing9;
 
-public class Fiat implements CarWithPedali
+public class Fiat implements Car, CarWithPedali
 {
     @Override
     public Pedali pedali() {

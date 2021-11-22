@@ -1,0 +1,31 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ö§Ñÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£¬½¥ùÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ŠøÕ“ùÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ãŒÂÔøÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Ã§ı‡şÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ŸÀÕ€
+V	java:S1253"<This block of commented-out lines of code should be removed.(©—‡çÿÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+V	java:S125f"<This block of commented-out lines of code should be removed.(‹¾È­ùÿÿÿÿ
+V	java:S125{"<This block of commented-out lines of code should be removed.(Éº—Šøÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+R	java:S125´"<This block of commented-out lines of code should be removed.(ğ×ğÅ
+R	java:S125½"<This block of commented-out lines of code should be removed.(îğÂû
+W	java:S125Û"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+R	java:S125ê"<This block of commented-out lines of code should be removed.(€ôá
+W	java:S125ó"<This block of commented-out lines of code should be removed.(ˆöÛŠúÿÿÿÿ
+W	java:S125ı"<This block of commented-out lines of code should be removed.(ŞŞ¶Ãşÿÿÿÿ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(–ÎåÌûÿÿÿÿ
+W	java:S125–"<This block of commented-out lines of code should be removed.(½Êşüÿÿÿÿ
+R	java:S125«"<This block of commented-out lines of code should be removed.(–š­›
+W	java:S125Î"<This block of commented-out lines of code should be removed.(·½²»ùÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Áú¢‹
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(î–˜Éüÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÒÜÅ¸úÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ê†ö
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Áú¢‹

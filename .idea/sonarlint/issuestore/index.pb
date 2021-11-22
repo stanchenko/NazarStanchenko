@@ -1,3 +1,47 @@
 
-F
-lesson02/dataType.java,a/f/af98f1e73a61ddc3a7e316fe143550f7fb016665
+K
+main/lesson02/dataType.java,a/0/a0dfa18f51cc250c9f274128ebaa093f613141a9
+L
+main/lesson03/operators.java,6/2/6262d90eae48f25b1a99e0bdb05b22ebeb2fac5d
+U
+%main/lesson04/professions/Person.java,b/b/bb688fc45393a85917005162a4e336f7e8649523
+Q
+!main/lesson04/vehicles/Truck.java,6/6/6696860cd2d4a753d1c4fe86fba349db624b483f
+U
+%main/lesson04/professions/Driver.java,d/1/d1d6d26a266fb0e12f848d1ebcc381bdc14c511a
+Q
+!main/lesson04/details/Engine.java,3/8/38308b00d33558cb880ddbb8a81c902e438a6f6e
+O
+main/lesson04/vehicles/Car.java,c/9/c9e3c9986d8110238b100e0b63878897c1b1006a
+T
+$main/lesson04/vehicles/SportCar.java,b/1/b1d0e525155728f5ff1dab92225b16aa012b3540
+G
+main/lesson04/Main.java,c/9/c9a75085d57f214deb5ac9b732963f42b7e7bce1
+P
+ main/lesson05/listing7/Main.java,0/e/0e913559b9fe60d59aba5238619435e535c21a9e
+O
+main/lesson05/listing7/Car.java,6/0/60fd6db6d01fbf9d897e7bcf40919a155d39df87
+P
+ main/lesson05/listing8/Main.java,c/7/c7ce05d5a303efeae9fa06604e37a229bcde106a
+O
+main/lesson05/listing8/Car.java,3/5/3560ad4b2a89bc48231e51a6f03f3932026569fc
+P
+ main/lesson05/listing8/Fiat.java,9/a/9a69b9ea055725c8fb161b3413ece6ec9b6e8137
+R
+"main/lesson05/listing8/Toyota.java,9/2/92454025ea8c873f9a03c9164486e52d3e41f4da
+P
+ main/lesson05/listing8/Page.java,b/9/b9dedfb165c7dfbc556f9e57e057514a7c2b4c90
+N
+main/lesson05/listing8/VW.java,5/2/5238548bb2eb92e9e3e231c3b5a58dc3ecb66d04
+R
+"main/lesson05/listing9/Pedali.java,8/b/8bc34f77a51c6d0cdc18a05d4475e66054c4ad60
+S
+#main/lesson06/HomeWork/CanMove.java,4/8/48478e6b491a8b37cd10bc6a9db7e5cafa582eef
+T
+$main/lesson07/listing1/MapFruit.java,b/6/b6d7d94a4a8f7ad48521136e6edec3da7ea85b04
+R
+"main/lesson06/HomeWork/CanFly.java,5/6/5653b48c027ecdcb802c8d151ff97b50504a056b
+P
+ main/lesson06/HomeWork/Swan.java,1/6/16611174f4ee30ce98f576c4a23767e424ae3936
+Q
+!main/lesson06/HomeWork/Birds.java,a/a/aaab23dc188305f6cd58690fa42e94da8f0bfae2

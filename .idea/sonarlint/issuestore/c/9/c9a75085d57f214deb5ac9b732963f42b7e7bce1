@@ -1,0 +1,8 @@
+
+T
+java:S1854"9Remove this useless assignment to local variable "truck".(ÀÒÄ»ıÿÿÿÿ
+E
+java:S1481"*Remove this unused "truck" local variable.(ÀÒÄ»ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÒóÈè
+P	java:S125"<This block of commented-out lines of code should be removed.( ÒÕz
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚÷ìçùÿÿÿÿ

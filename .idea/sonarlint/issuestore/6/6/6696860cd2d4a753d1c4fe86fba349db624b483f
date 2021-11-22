@@ -1,0 +1,4 @@
+
+j
+java:S1104	"TMake carrying a static final constant or non-public and provide accessors if needed.(Ë²ÂÆ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê‚…G

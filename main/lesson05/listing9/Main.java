@@ -2,7 +2,17 @@ package lesson05.listing9;
 
 public class Main
 {
-    Fiat fiat = new Fiat();
+    Fiat fiat = new Fiat() {
+        @Override
+        public Pedali pedali() {
+            return null;
+        }
+
+        @Override
+        public Kermo kermo() {
+            return null;
+        }
+    };
     public static void main(String[] args)
     {
 
