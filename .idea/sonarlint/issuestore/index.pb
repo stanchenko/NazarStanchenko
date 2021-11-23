@@ -35,13 +35,3 @@ N
 main/lesson05/listing8/VW.java,5/2/5238548bb2eb92e9e3e231c3b5a58dc3ecb66d04
 R
 "main/lesson05/listing9/Pedali.java,8/b/8bc34f77a51c6d0cdc18a05d4475e66054c4ad60
-S
-#main/lesson06/HomeWork/CanMove.java,4/8/48478e6b491a8b37cd10bc6a9db7e5cafa582eef
-T
-$main/lesson07/listing1/MapFruit.java,b/6/b6d7d94a4a8f7ad48521136e6edec3da7ea85b04
-R
-"main/lesson06/HomeWork/CanFly.java,5/6/5653b48c027ecdcb802c8d151ff97b50504a056b
-P
- main/lesson06/HomeWork/Swan.java,1/6/16611174f4ee30ce98f576c4a23767e424ae3936
-Q
-!main/lesson06/HomeWork/Birds.java,a/a/aaab23dc188305f6cd58690fa42e94da8f0bfae2
