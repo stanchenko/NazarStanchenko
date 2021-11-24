@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Custom suite" parallel="none">
+    <test verbose="1" name="TestNG" annotations="JDK">
+
+        <classes>
+            <class name="TestCalculator">
+                <methods>
+                    <exclude name="testSum2"></exclude>
+                </methods>
+            </class>
+            <class name="TestCalculatorSecond"/>
+
+
+        </classes>
+
+
+    </test>
+</suite>
