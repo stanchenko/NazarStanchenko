@@ -11,6 +11,9 @@
             </class>
             <class name="TestCalculatorSecond"/>
 
+            <class name="lesson8.lucky.LuckyTestNG">
+
+            </class>
 
         </classes>
 
