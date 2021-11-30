@@ -1,0 +1,13 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(üôî‹şÿÿÿÿ
+O
+java:S1854":Remove this useless assignment to local variable "random".(¼İÅf
+3
+java:S2119"Save and re-use this "Random".(¼İÅf
+@
+java:S1481"+Remove this unused "random" local variable.(¼İÅf
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨ËĞøşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã§ı‡şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æ‹×ƒ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿«™

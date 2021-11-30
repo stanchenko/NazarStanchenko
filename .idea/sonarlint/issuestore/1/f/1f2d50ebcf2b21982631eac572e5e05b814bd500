@@ -1,0 +1,12 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(Á³öÆ
+E
+java:S3740"/Provide the parametrized type for this generic.(Á³öÆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µª´Çøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÐ÷ñýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ð¬„Ýÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êŽð»ýÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(â©ÂÁ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÇŽë

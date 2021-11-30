@@ -1,0 +1,16 @@
+
+T
+java:S1854."9Remove this useless assignment to local variable "list2".(¤Ëî—ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Áß‡Ü
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ŸÏÍè
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(¯ô¢ô
+E
+java:S1481."*Remove this unused "list2" local variable.(¤Ëî—ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷‹şÚ

@@ -1,0 +1,16 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(÷­ê¾
+S	java:S106"9Replace this use of System.out or System.err by a logger.(É®µ‡ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÙŠ¶
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«á·Í
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÂ øÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾¿‰ÿûÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(·Ôù‡
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(¡‰ò
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(€í³ş8õò÷Ô/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(Ë¸‰µ8 ğ‘÷Ô/
+V
+java:S1128"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠŞùÿÿÿÿ8–ç“÷Ô/
+P
+java:S1128".Remove this unused import 'java.util.TreeMap'.(¨éˆèıÿÿÿÿ8—ç“÷Ô/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óÄ½éøÿÿÿÿ
