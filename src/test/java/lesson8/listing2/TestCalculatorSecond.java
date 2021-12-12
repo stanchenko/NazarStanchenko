@@ -1,9 +1,11 @@
+package lesson8.listing2;
+
 import lesson07.listing1.Calculator;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class TestCalculatorSecond //extends TestCalculator
+public class TestCalculatorSecond
 {
     public Calculator calculator = new Calculator();
 
