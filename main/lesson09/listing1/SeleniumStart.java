@@ -7,8 +7,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class SeleniumStart
 {
     public static void main(String[] args) {
-      //  System.setProperty("webdriver.chrome.driver", "src/test/resources/chromedriver");
-        WebDriverManager.chromedriver().setup(); // при таком сетапе нет необходимости следить за версией хромдрайвера
+        System.setProperty("webdriver.chrome.driver", "src/test/resources/chromedriver");
+      //  WebDriverManager.chromedriver().setup(); // при таком сетапе нет необходимости следить за версией хромдрайвера
        // WebDriverManager.safaridriver().setup();
         WebDriver driver = new ChromeDriver();
         driver.get("https://demoqa.com");

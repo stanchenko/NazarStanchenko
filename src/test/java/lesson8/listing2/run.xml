@@ -4,12 +4,12 @@
     <test verbose="1" name="TestNG" annotations="JDK">
 
         <classes>
-            <class name="TestCalculator">
+            <class name="lesson8.listing2.TestCalculator">
                 <methods>
                     <exclude name="testSum2"></exclude>
                 </methods>
             </class>
-            <class name="TestCalculatorSecond"/>
+            <class name="lesson8.listing2.TestCalculatorSecond"/>
 
             <class name="lesson8.lucky.LuckyTestNG">
 
