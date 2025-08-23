@@ -11,3 +11,34 @@
 9/ git push origin master
 
 Якщо додали не той удаленний репозиторій і треба замінити виконати команду = git remote remove origin  і в нас не буде ремонт репозиторію
+
+
+Git init
+
+Git add index.html
+Git add .
+Git rm —cached index.html
+
+Git commit -m  «first commit»
+
+.gitignore
+
+Git branch  - список веток
+Git branch test - створення ветки test
+Git checkout -b new - створення та переключення на ветку
+Git branch -D test  - видалення ветки test
+
+git merge readme
+
+git config --global user.name
+git config --global user.name «Nazar»
+git config --global user.email “my email”
+
+git init - ініціалізація репозиторія
+git clone git@github.com:user_name/repository.git - клонування репозіторія
+git add . - додає зміст робочого каталогу в індекс
+git commit -m “fix issue” - фіксуємо зміни
+git pull origin master - запросити зміни з віддаленого сховища
+git push origin my_branch - відправка коміків на віддалене сховище
+git status - зміни в нашому створеному репозиторії
+git checkout -b my_branch origin/master - створити гілку my_branch від master(remote) і переключення на цю гілку
