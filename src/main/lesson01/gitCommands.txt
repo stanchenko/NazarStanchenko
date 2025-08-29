@@ -45,6 +45,11 @@ git checkout -b my_branch origin/master - створити гілку my_branch 
 git branch - список гілок
 git checkout main - переключення на main гілку
 
+git chekout main - перемкнутись на main ветку
+git merge lesson01 - змержити зміни з lesson01 d main
+
+
+
 
 Ssh
 https://stackoverflow.com/questions/17659206/git-push-results-in-authentication-failed
